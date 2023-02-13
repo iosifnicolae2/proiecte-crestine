@@ -9,3 +9,7 @@ Example:
 
 ### Proiecte
 - WIP
+
+
+### Discussions
+- Daca aveti propuneri de proiecte, puteti deschide o discutie in [Ideas](https://github.com/iosifnicolae2/proiecte-opensource-crestine/discussions/new?category=ideas)
