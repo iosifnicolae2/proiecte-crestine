@@ -6,7 +6,7 @@ Feel free to contribute by opening a PR by appending your project to `Readme.md`
 
 ## Proiecte
 - [Director radiouri crestine](https://github.com/iosifnicolae2/radio-crestin.com)
-
+- [bible-api](https://github.com/ichthus-soft/bible-api)
 
 <br/>
 
