@@ -1,4 +1,4 @@
-# Proiecte open-source crestine
+# Proiecte crestine
 Feel free to contribute by opening a PR by appending your project to `Readme.md` file.
 ```md
 - [Project name](https://github.com/XXXX)
